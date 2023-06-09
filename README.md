@@ -1,5 +1,5 @@
 # hello-World
-Mi primer seposotorio
+Mi primer repositorio
 
 Me llamo Gustavo
 
